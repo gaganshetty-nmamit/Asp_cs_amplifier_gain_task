@@ -8,13 +8,13 @@ Everyone must submit their LTspice schematic files using the correct naming form
 USN_Name.asc
 ```
 
-**USN** – Your University Seat Number
-**Name** – Your full name
+**USN** – Your University Seat Number<br>
+**Name** – Your full name<br>
 **.asc** – LTspice schematic file extension
 
 ### **Example**
 
-```
+```bash
 NNM24EE0xx_YourName.asc
 ```
 
